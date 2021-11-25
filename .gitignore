@@ -1,0 +1,27 @@
+#       OS        #
+###################
+.DS_Store
+.idea
+Thumbs.db
+tmp/
+temp/
+
+
+#     Node.js     #
+###################
+node_modules
+package-lock.json
+yarn.lock
+*.log
+
+
+#      Build      #
+###################
+build
+dist
+
+
+#       NYC       #
+###################
+coverage
+.nyc_output
