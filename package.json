@@ -1,0 +1,25 @@
+{
+  "name": "jsau-monolith",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/jsau-monolith.git"
+  },
+  "scripts": {
+    "start": ""
+  },
+  "author": {
+    "name": "imed jaberi",
+    "email": "imed-jaberi@outlook.com",
+    "url": "https://www.3imed-jaberi.com"
+  },
+  "license": "MIT",
+  "enignes": {
+    "node": ">= 16"
+  },
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/jsau-monolith/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/jsau-monolith#readme"
+}
